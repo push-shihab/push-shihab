@@ -76,12 +76,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=push-shihab&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="./profile/stats.svg" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=push-shihab&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=push-shihab&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="./profile/top-langs.svg" width="48%"/>
 </p>
 
 ---
