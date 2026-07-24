@@ -68,15 +68,15 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=push-shihab&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=push-shihab&theme=tokyonight" width="48%"/>
+<p>
+  <img align="left" src="top-langs.svg" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=push-shihab&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+
+<p>&nbsp;<img align="center" src="github-stats.svg" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="streak-stats.svg" alt="GitHub Streak" /></p>
 
 ---
 
