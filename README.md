@@ -68,12 +68,11 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=push-shihab&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=push-shihab&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=push-shihab&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <p><img align="center" src="streak-stats.svg" alt="GitHub Streak" /></p>
 
 ---
