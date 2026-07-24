@@ -71,9 +71,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=push-shihab&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=push-shihab&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=push-shihab&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<p><img align="center" src="streak-stats.svg" alt="GitHub Streak" /></p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=push-shihab&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+<img align="center" src="streak-stats.svg" alt="GitHub Streak" />
 
 ---
 
