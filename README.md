@@ -70,11 +70,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p>
-  <img align="left" src="top-langs.svg" alt="Top Languages" />
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 </p>
-
-<p>&nbsp;<img align="center" src="github-stats.svg" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="streak-stats.svg" alt="GitHub Streak" /></p>
 
